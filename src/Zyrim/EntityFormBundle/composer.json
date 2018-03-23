@@ -1,0 +1,31 @@
+{
+  "name": "zyrim/form-entity-bundle",
+  "description": "A Form class to render input fields for each individual entity",
+  "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "Zyrim",
+      "email": "Kim-Westesen@Web.de"
+    }
+  ],
+  "license": [
+    "MIT"
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-0": {
+      "Zyrim\\EntityFormBundle": ""
+    }
+  },
+  "target-dir": "Zyrim/EntityFormBundle",
+  "repositories": [
+    {
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1"
+    }
+  }
+}

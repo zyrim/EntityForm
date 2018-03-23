@@ -1,0 +1,3 @@
+entity_form_homepage:
+    path:     /
+    defaults: { _controller: EntityFormBundle:Default:index }
